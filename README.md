@@ -26,4 +26,4 @@ I'm a software engineer currently based in Serbia (Europe).
 ### Reach me
 [<img align="left" alt="Predrag Jovicic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/predrag-jovicic
+[linkedin]: https://linkedin.com/in/predragjovicic
